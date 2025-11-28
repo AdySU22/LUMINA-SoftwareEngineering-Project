@@ -6,12 +6,12 @@ This project integrates both hardware and software components. The heart of the 
 
 ✨ Key Features
 
-Lumen-based alarm — wakes users using gradual light intensity instead of sound
+- Lumen-based alarm: wakes users using gradual light intensity instead of sound
 
-Web-controlled lighting system — access and control the lamp through a browser
+- Web-controlled lighting system: access and control the lamp through a browser
 
-Adjustable brightness and color settings
+- Adjustable brightness and color settings
 
-Party mode — reacts to ambient music using a sound sensor
+- Party mode: reacts to ambient music using a sound sensor
 
-Standalone device — no internet connection or external router needed
+- Standalone device: no internet connection or external router needed
